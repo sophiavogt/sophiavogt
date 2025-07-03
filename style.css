@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(181, 228, 240); 
+    color: rgb(76, 130, 143); 
+    font-family: 'Courier New', Courier, monospace, sans-serif;
+    text-align: center;
+}
+h1 {
+    text-align: center;
+}
+button {
+    background-color: rgb(76, 130, 143); 
+    color: whitesmoke; 
+    font-family: 'Courier New', Courier, monospace; 
+    font-size: xx-large;
+    margin: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;   
+}
